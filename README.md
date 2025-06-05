@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Mon nom est Marc Lightning</h1>
+<h1 align="center">Salut 👋, Moi C'est Marc Lightning</h1>
 <h3 align="center">je suis un passionner de programmation de jeux vidéo, d'art graphique et numérique</h3>
 
 <h3 align="left">Connect with me:</h3>
